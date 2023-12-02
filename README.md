@@ -15,7 +15,7 @@ Lawyer Query Bot is a project that implements a lawyer chatbot for answering Per
 
 ## Datasets
 
-Datasets are available in the `dataset/` directory.
+Datasets are available in the `dataset` zip folder.
 
 ## Usage
 

@@ -33,8 +33,3 @@ User_question: [User's actual question goes here]
 
 Top 10 relevant answers extracted from dataset
 ```
-
-## Google Colab
-
-This project is implemented in Google Colab
-Open the notebook in Google Colab by clicking on the following link: https://colab.research.google.com/drive/1vjlAnCui98oYATfag56QpaeoJQ5XEtYS
